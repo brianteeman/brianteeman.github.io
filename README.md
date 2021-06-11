@@ -9,7 +9,7 @@ Editoria11y (editorial [ally](https://www.a11yproject.com/)) is a user-friendly 
 * If the page has a *new* issue, a panel automatically slides open with more details.
 * If the user minimizes the panel, it will not open automatically on future page visits until the content changes.
 
-Try a [clickable demo of what a logged-in author would see](https://itmaybejj.github.io/editoria11y/demo/).
+Try a [clickable demo of what a logged-in author would see](https://brianteeman.github.io/editoria11y/demo/).
 
 ### Issues flagged in the quick check
 * Headings
